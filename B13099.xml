@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation prohibiting the importation of all sorts of glasse whatsoeuer, made in forreigne parts.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13099</idno><idno type="EEBO-CITATION">99892505</idno>
+  <idno type="VID">185773</idno>
+  <idno type="EEBO-PROQUEST">2240934360</idno>
+  
+            <idno type="STC">STC 9047</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.12[46]</idno>
+            <idno type="STC">ESTC S122971</idno>
+            <idno type="PROQUEST">ocm99892505</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892505e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13099)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185773)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C2:3[46])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation prohibiting the importation of all sorts of glasse whatsoeuer, made in forreigne parts.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiesty: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1635.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Confirming a patent granted by James I to Sir Robert Mansell.</note>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Royston, the foureteenth day of October, in the eleuenth yeere of our reigne.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 23; Steele notation: Procla- of 2) dis- of.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mansell, Robert, --  Sir, 1573-1656.</term>
+               <term type="topical_term">Glass --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Import quotas --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:185773:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>❧ By the King.</head>
+            <head>❧ A Proclamation prohibiting the Importation of all sorts of Glasse whatsoeuer, made in Forreigne parts.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas Our late Royall Father of blessed memorie, by His Procla<g ref="char:EOLhyphen"/>mation,</hi> dated the three and twentieth day of <hi>May,</hi> in the thirteenth yeere of His Reigne, for the preseruation of the Woods and Tim<g ref="char:EOLhyphen"/>ber of this Realme, which were then much consumed by the making of Glasse, did prohibit, that from thenceforth no person or per<g ref="char:EOLhyphen"/>sons should presume to make or melt any Glasses whatsoeuer, with Timber, or Wood, or any Fewell made of the same, within the Realme of <hi>England,</hi> or dominion of <hi>Wales,</hi> vpon paine of forfeiture of such Glasse, and of other punishments for their contempt: And did thereby also inhibit, aswell the Importa<g ref="char:EOLhyphen"/>tion into this Realme, of all sorts of Glasse made in Forreigne parts, as the buying or selling thereof here, vnder the forfeitures, and penalties therein expressed.</p>
+            <p>And whereas Our trustie and welbeloued, Sir <hi>Robert Mansell</hi> Knight, Lieutenant of Our Admiraltie of <hi>England,</hi> by his industry and great expences, hath perfected the Manufacture of making all sorts of Glasse with Sea-Coale, or Pit-Coale, whereby not onely the Woods and Timber of this Kingdome haue beene, and are greatly preserued, but the making of all kindes of Glasse established here; To the emploiment of a number of Our owne Subiects, the sauing of much Treasure at home, which was formerly expended beyond the Seas for that Commoditie, and Our people are now furnished at farre more moderate prices then euer they could obtaine them from those Forreigne parts: Neuerthelesse, diuers ill affected persons, haue at seuerall times presumed to Import, and bring into this Kingdome, great quantities of Glasse of all sorts, made beyond the Seas, to the dammage, and preiudice of the said Glasse-workes here.</p>
+            <p>We therefore being minded to maintaine and continue the said workes and Manufacture with<g ref="char:EOLhyphen"/>in this Our Kingdome, and to restraine the Importation of all Forreigne Glasses, doe (with the aduice of Our Priuie Councell) declare Our Royall pleasure to be: And doe hereby straitly charge and command, that no person, or persons whatsoeuer (during the grant of Our late deare Father made to the said Sir <hi>Robert Mansell</hi> for the sole making of Glasse) shall from henceforth, directly or indirectly, Import, or bring, or cause to be Imported, or brought into this Our Realme of <hi>England,</hi> or dominion of <hi>Wales,</hi> any kinde or fashion of Glasse, or Glasses whatsoeuer, made, or
+<pb facs="tcp:185773:2"/>to be made in any Forraigne parts, or places beyond the Seas, vpon paine of Our heauy dis<g ref="char:EOLhyphen"/>pleasure, and of the losse and forfeiture of all such Glasse and Glasses as shall be so Imported, and to incurre such other penalties and punishments, as by the Lawes, or Statutes of this Our Realme, or otherwise may be inflicted on them, for contempt, or neglect of Our Royall com<g ref="char:EOLhyphen"/>mands herein.</p>
+            <p>And We doe hereby also straitly charge, require and command, that no person or persons whatsoeuer, that now vse, or hereafter shall vse the Trade of retailing, selling, or vttering of drinking Glasses, or any other sorts of Glasse whatsoeuer within this Our Realme of <hi>England,</hi> or dominion of <hi>Wales,</hi> shall hereafter directly, or indirectly, buy, bargaine, contract for, sell, or vtter any kinde of Glasses whatsoeuer, made, or to be made in any Forraigne parts beyond the Seas, which shall be hereafter imported during the said terme, vpon paine of the seisure, losse, and for<g ref="char:EOLhyphen"/>feiture of the same, and to be further proceeded against, as contemners of Our will and pleasure herein declared.</p>
+            <p>Notwithstanding, Our intent and meaning is; That these presents, or any thing therein ex<g ref="char:EOLhyphen"/>pressed, shall not extend, or be taken to inhibit, or restraine the said Sir <hi>Robert Mansell,</hi> his Exe<g ref="char:EOLhyphen"/>cutors or Assignes, or his, or their Deputies, Factors or Agents (during the terme of Our said Fathers Grant) from Importing, or bringing into this Our Realme of <hi>England,</hi> or dominion of <hi>Wales,</hi> such Glasses from <hi>Venice, Morana,</hi> or other parts of <hi>Italy,</hi> as he or they shall thinke fit to be furnished withall, for some speciall vse and seruice.</p>
+            <p>And We doe hereby authorize and require all Maiors, Sheriffes, Iustices of the Peace, Bai<g ref="char:EOLhyphen"/>liffes, Constables, and other Our Officers, Ministers and louing Subiects, that they, and euery of them during the said terme, when, and as often as they, or any of them, shall be requested in that behalfe, be aiding and assisting from time to time in the due execution of the premisses.</p>
+            <p>And further, that all Our Customers, Collectors, Farmours, Searchers, Waiters, and all other Our Officers and Ministers in Our Port of <hi>London,</hi> and all other Our Ports, Hauens, and Creekes within this Our Realme, and dominion of <hi>Wales,</hi> during the said terme, doe take care to search for, and seize as forfeit to Vs, all such Glasse and Glasses whatsoeuer, as shall hereafter be imported, conueyed, or brought into any Our Ports, Harbours, Hauens, or Creekes, from any Forraigne parts, or places whatsoeuer beyond the Seas, contrary to the intent of these presents: And this shall be their warrant and discharge in that behalfe.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at Our Court at Royston, </hi>
+                  <date>
+                     <hi>the foureteenth day of October, in the eleuenth yeere of Our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by ROBERT BARKER, Printer to the Kings most Excellent Maiesty: And by the Assignes of IOHN BILL. 1635.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
